@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppVersionMonitor.iml" filepath="$PROJECT_DIR$/AppVersionMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appversionmonitor/appversionmonitor.iml" filepath="$PROJECT_DIR$/appversionmonitor/appversionmonitor.iml" />
+    </modules>
+  </component>
+</project>
