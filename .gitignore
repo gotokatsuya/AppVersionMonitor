@@ -1,8 +1,42 @@
+# Android Studio
+.gradle/
+.idea/
+build/
+gradlew.bat
 *.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+
+# Built application files
+*.apk
+*report.txt
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Mac
 .DS_Store
-/build
-/captures
+
+# IntelliJ
+.idea/
+*.ipr
+*.iws
+
+
+# Vim
+*.swp
+
+
+# Emacs
+*~
+
+
